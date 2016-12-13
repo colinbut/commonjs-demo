@@ -1,4 +1,4 @@
-# commonjs-demo
+# CommonJS Demo
 
 CommonJS provides the following two tools:
 
